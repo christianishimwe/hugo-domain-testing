@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-**Hugo Mock Landing Page** is a modern and responsive **rental booking website** built using **Hugo**, a fast and flexible static site generator. The platform is designed to provide users with an intuitive experience for **booking and listing rental properties** efficiently.
+**LALA** is a modern and responsive **rental booking website** built using **Hugo**, a fast and flexible static site generator. The platform is designed to provide users with an intuitive experience for **booking and listing rental properties** efficiently.
 
 This project incorporates **pre-designed UI/UX components** sourced from **CodePen.io** and other modern design inspirations to ensure an elegant and visually appealing layout.
 
